@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0; 
+  }
+
+.gif{
+    margin-left: 20%;
+}
+
+.sidebar{
+  display: flex;
+}
+
+/* .side-btn{
+  margin-right: 98%;
+} */
